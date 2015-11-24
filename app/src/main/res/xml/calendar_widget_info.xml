@@ -1,0 +1,5 @@
+<appwidget-provider
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:initialLayout="@layout/calendar_widget"
+	android:minWidth="@dimen/widget_width"
+	android:minHeight="@dimen/widget_height"/>

@@ -1,0 +1,8 @@
+<TextView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	app:layout_rowWeight="1"
+	app:layout_columnWeight="1"
+	android:id="@android:id/text1"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"/>
